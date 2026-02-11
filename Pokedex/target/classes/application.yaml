@@ -1,0 +1,7 @@
+Spring:
+   datasource:
+      url: jdbc:mysql://localhost:3306/pokedex
+      username: root
+      password: password
+      
+   jpa.hibernate.ddl_auto: update
